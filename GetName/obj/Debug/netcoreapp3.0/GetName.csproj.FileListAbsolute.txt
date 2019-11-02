@@ -1,0 +1,10 @@
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName.deps.json
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName.dll
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/bin/Debug/netcoreapp3.0/GetName.pdb
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/obj/Debug/netcoreapp3.0/GetName.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/obj/Debug/netcoreapp3.0/GetName.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/obj/Debug/netcoreapp3.0/GetName.dll
+/Users/kseniagustsenko/Desktop/Arrays2/GetName/obj/Debug/netcoreapp3.0/GetName.pdb

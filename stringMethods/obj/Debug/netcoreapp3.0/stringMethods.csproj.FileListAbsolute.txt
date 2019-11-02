@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.deps.json
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.dll
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.pdb
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.dll
+/Users/kseniagustsenko/Desktop/Arrays2/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.pdb

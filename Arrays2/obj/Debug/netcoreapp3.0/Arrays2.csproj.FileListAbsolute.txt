@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2.deps.json
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2.dll
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/bin/Debug/netcoreapp3.0/Arrays2.pdb
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/obj/Debug/netcoreapp3.0/Arrays2.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/obj/Debug/netcoreapp3.0/Arrays2.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/obj/Debug/netcoreapp3.0/Arrays2.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/obj/Debug/netcoreapp3.0/Arrays2.dll
+/Users/kseniagustsenko/Desktop/Arrays2/Arrays2/obj/Debug/netcoreapp3.0/Arrays2.pdb

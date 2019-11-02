@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7FB40863-52BF-4548-809B-934BA8AB44A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Arrays2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GetName PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ShoppingList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DateTimeConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MyList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyList/Program.cs">
+    <Files>
+      <File FileName="Arrays2/Program.cs" Line="18" Column="10" />
+      <File FileName="stringMethods/Program.cs" />
+      <File FileName="GetName/Program.cs" />
+      <File FileName="ShoppingList/Program.cs" />
+      <File FileName="DateTimeConsoleApp/Program.cs" />
+      <File FileName="MyList/Program.cs" Line="58" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays2" expanded="True">
+            <Node name="Arrays2" expanded="True" />
+            <Node name="DateTimeConsoleApp" expanded="True" />
+            <Node name="GetName" expanded="True" />
+            <Node name="MyList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ShoppingList" expanded="True" />
+            <Node name="stringMethods" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.stringMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

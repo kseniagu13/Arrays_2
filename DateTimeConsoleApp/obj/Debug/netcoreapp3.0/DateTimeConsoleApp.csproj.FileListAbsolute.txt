@@ -1,0 +1,10 @@
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp.deps.json
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp.dll
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/bin/Debug/netcoreapp3.0/DateTimeConsoleApp.pdb
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/obj/Debug/netcoreapp3.0/DateTimeConsoleApp.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/obj/Debug/netcoreapp3.0/DateTimeConsoleApp.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/obj/Debug/netcoreapp3.0/DateTimeConsoleApp.dll
+/Users/kseniagustsenko/Desktop/Arrays2/DateTimeConsoleApp/obj/Debug/netcoreapp3.0/DateTimeConsoleApp.pdb
